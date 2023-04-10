@@ -1,0 +1,1 @@
+# Transformaciones-No-lineales-de-Datos-para-la-Modificacion-del-Rango-de-las-Senales
